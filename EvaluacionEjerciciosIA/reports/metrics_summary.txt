@@ -1,0 +1,19 @@
+======================================================================
+RESUMEN DE MÉTRICAS - MODELO LSTM
+======================================================================
+
+Test Accuracy: 92.52%
+Balanced Accuracy: 91.79%
+Cohen's Kappa: 0.9061
+Matthews Correlation Coefficient: 0.9061
+Smoothness: 99.99%
+
+Métricas por clase:
+Clase           Precision    Recall       F1-Score    
+-------------------------------------------------------
+pushups_down    0.8802       0.8949       0.8875      
+pushups_up      0.9103       0.8988       0.9045      
+situp_down      0.9790       0.9819       0.9805      
+situp_up        0.8892       0.8498       0.8690      
+squats_down     0.9341       0.9527       0.9433      
+squats_up       0.9346       0.9294       0.9320      
